@@ -43,10 +43,10 @@ This ensures immediate alerts are received when file count crosses a defined thr
 ## 📸 Screenshots
 
 ### 1. Alert Policy
-![Alert Screenshot](present in screenshot folder)
+![Alert Screenshot](Screenshot 2025-06-12 190435.png)
 
 ### 2. Custom Dashboard
-![Dashboard Screenshot](present in screenshot folder)
+![Dashboard Screenshot]()
 
 ---
 
