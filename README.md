@@ -46,7 +46,7 @@ This ensures immediate alerts are received when file count crosses a defined thr
 ![Alert Screenshot](Screenshot 2025-06-12 190435.png)
 
 ### 2. Custom Dashboard
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Screenshot 2025-06-12 191932.png)
 
 ---
 
